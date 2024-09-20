@@ -1,6 +1,6 @@
 resolution: 256
 dirs:
-  - images: lookahead_real_inputs/OurRealData_scaled
+  - images: lookahead_real_inputs/home_stone_3
 loader: !Images
   # not entirely clear what this should be, probably 45 degree FOV
   distance: 2.41
