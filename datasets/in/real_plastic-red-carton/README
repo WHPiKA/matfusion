@@ -1,0 +1,10 @@
+The unit of the numbers in 
+	camera_pos.txt
+	light_pos.txt
+	image_size.txt (physical size of those photos, eg. 12.672 x 12.672)
+is cm
+
+The 3 numbers in 
+	light_power.txt
+are the intensity of camera flash light. For most of the phones, you can keep using it.
+Numbers here are roughly estimated, it has not to be super accurate because it would be compensated by albedo. If you want, you can optimize those as well.
